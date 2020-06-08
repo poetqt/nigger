@@ -9,7 +9,7 @@
     "You already have a synapse account":"Go to Settings > System > About and select the Rename PC button in the right column under PC. Then type the name you want to rename the computer. Once entered, restart your PC.",
     "User Account":"Hi, xxx\n\nGo to settings > accounts > family & other users > Add someone else to this PC.\n\nCreate a new user and change the account type to administrator.\n\nNow log into the new user and download synapse.\n\nRegards, nausea",
     "More than one instance":"Try using legacy UI and tell me if the same thing happens. Also, open task manager, look for any synapse instances or anything containing 'cefsharp' and end process.",
-    "Inactive":"Ticket closed due to inactivity. Regards, nausea"
+    "Inactive":"Ticket closed due to inactivity.\n\nRegards, nausea"
 
   
   }
