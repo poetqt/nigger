@@ -16,7 +16,8 @@
     "Discord":"Hi there,\n\nPlease add nausea#2832 on Discord to receive an invite to the official Synapse X Discord server.\n\nBest regards.",
     "lua-decomp":"Hi there,\n\nNavigate to the Synapse X folder, locate the bin folder, replace lua-decomp.exe with the following: http://www.filedropper.com/lua-decomp\n\nIf lua-decomp does not already exist in the folder, then just put the new file inside.\n\nBest regards.",
     "antivirus":"Hi there,\n\nFirstly, press Win + R, type 'appwiz.cpl' uninstall any antiviruses you may have and especially anything named 'SAntivirus'. Now head to Settings > Updates & security > Windows security > Open windows security > virus & threat protection > Manage settings, disable realtime protection and download Synapse.\n\n Extract the Synapse X folder then head back to Settings > Updates & security > Windows security > Open windows security > virus & threat protection > Manage settings > Exclusions and add the Synapse X folder as an exclusion. You may re-enable realtime protection now.\n\nBest regards.",
-    "Failed to find instance":"Hi there,\n\nFirstly, please ensure you're downloading and running ROBLOX from the site (https://roblox.com) and not from the microsoft store. If you are running from the site and the error persists, reinstall both Synapse X and ROBLOX.\n\nSynapse: https://anonfiles.com/F71aHfSfob/S_X_zip\nROBLOX: https://roblox.com\n\nBest regards."
+    "Failed to find instance":"Hi there,\n\nFirstly, please ensure you're downloading and running ROBLOX from the site (https://roblox.com) and not from the microsoft store. If you are running from the site and the error persists, reinstall both Synapse X and ROBLOX.\n\nSynapse: https://anonfiles.com/F71aHfSfob/S_X_zip\nROBLOX: https://roblox.com\n\nBest regards.",
+    "Verify":"Hi there,\n\nPlease add and DM nausea#2832 on Discord to be verified in the official Synapse X Discord server.\n\nBest regards."
 
   
   }
