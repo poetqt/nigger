@@ -21,6 +21,6 @@
     "Password":"Hi there,\n\nIn the Synapse folder, open the auth folder, and delete the token.bin file. Then, open Synapse again and click 'forgot password'. You will be emailed a reset token; the rest is straightforward.\n\nBest regards.",
     "6 months":"Hi there,\n\nYour appeal is automatically denied due to your ban occuring 6+ months ago.\nPlease do not create further tickets regarding your ban.\n\nBest regards.",
     "Accepted":"Hi there,\n\nAfter confirming the validity of your ban reason(s), we've decided to unban you from the server.\n\nBest regards.",
-    "Detail":"Hi there,\n\nPlease reply with a more formal appeal including the following,\n\n- The reason for your ban (reason)\n- Why you should be unbanned\n- What you will do to prevent yourself from breaking our rules in the future\n\nNOTES\n\nBest regards.",
+    "Detail":"Hi there,\n\nPlease reply with a more detailed appeal including the following,\n\n- The reason for your ban (reason)\n- Why you should be unbanned\n- What you will do to prevent yourself from breaking our rules in the future\n\nNOTES\n\nBest regards.",
     "Early":"Hi there,\n\nYou are appealing for a ban that occurred too recently. You were banned on \"DATE\" for the reason of \"REASON\", which means the earliest you can appeal is \"DATE\" (TIME after your ban occurred).\n\nBest regards."
   }
