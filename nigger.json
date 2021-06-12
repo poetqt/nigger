@@ -23,5 +23,6 @@
     "Accepted":"Hi there,\n\nAfter confirming the validity of your ban reason(s), we've decided to unban you from the server.\n\nBest regards.",
     "Detail":"Hi there,\n\nPlease reply with a more detailed appeal including the following,\n\n- The reason for your ban (reason)\n- Why you should be unbanned\n- What you will do to prevent yourself from breaking our rules in the future\n\nNOTES\n\nBest regards.",
     "Early":"Hi there,\n\nYou are appealing for a ban that occurred too recently. You were banned on \"DATE\" for the reason of \"REASON\", which means the earliest you can appeal is \"DATE\" (TIME after your ban occurred).\n\nBest regards.",
-    "Wrong email":"Hi there,\n\nThe email you provided does not match the email associated with your account.\n\nBest regards."
+    "Wrong email":"Hi there,\n\nThe email you provided does not match the email associated with your account.\n\nBest regards.",
+    "bot msg":"Hi there,\n\nDo you happen to have a screenshot of the message from our bot regarding your ban? If so, please upload it to https://imgur.com/upload and reply with the link.\n\nBest regards."
   }
